@@ -2,7 +2,7 @@
 
 
 ## AR SNEAKER
-The website is on:
+The website is on: https://arweave.net/VS-wOc2bd16dHSN1gY3oh8PBxOnVDS6wrhuSGOMrRu4
 
 
 ## Available Scripts
